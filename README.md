@@ -1,16 +1,18 @@
-## Hi there 👋
+# Wassup
 
-<!--
-**paradiseer/paradiseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Call me paradisser or just "handsome guy", idk.
 
-Here are some ideas to get you started:
+## Langs:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- Lua/GLua (GLua is an language from the game "Garry's Mod")
+
+## About:
+
+Just an weirdo who likes yapping about everything.
+
+My first expirience with code was on Roblox's Luau.
+Since then i've tryed to improve my skills until i get an job or something.
+
+I'm currently making an personal website.
