@@ -1,6 +1,6 @@
 # Wassup
 
-Call me paradisser or just "handsome guy", idk.
+Call me paradiseer or just "handsome guy", idk.
 
 ## Langs
 
