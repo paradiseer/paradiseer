@@ -5,7 +5,8 @@ Call me paradiseer or just "handsome guy", idk.
 ## Langs
 
 - HTML
-- CSS
+- Python
+- C/C++
 - Lua/GLua (GLua is an language from the game "Garry's Mod")
 
 ## About
